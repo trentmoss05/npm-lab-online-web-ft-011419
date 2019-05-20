@@ -21,6 +21,6 @@
   "homepage": "https://github.com/learn-co-curriculum/npm-lab#readme",
   "dependencies": {
     "learn-browser": "^0.1.17",
-    "moment": "^2.22.2"
+    "moment": "^2.24.0"
   }
 }
